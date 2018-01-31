@@ -1,0 +1,2 @@
+FORM quay.io/prometheus/prometheus:v2.0.0
+MAINTAINER idea77@qq.com
